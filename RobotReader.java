@@ -4,7 +4,7 @@
  * 
  * and you can call robotreader using isUrlAllowed()
  */
-package dcs.shef.ac.uk.com6504.net.spider.robot;
+
 
 import java.io.BufferedReader;
 import java.io.InputStream;
