@@ -14,7 +14,7 @@ USAGE
 -----
     RobotReader r = new RobotReader("YOUR SPIDER SIGNATURE");
     
-    readRobot(new URL("http://www.somewebsite.com");
+    readRobot(new URL("http://www.somewebsite.com"));
   
     boolean answer = isUrlAllowed("/url/");
     
