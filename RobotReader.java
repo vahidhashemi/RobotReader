@@ -1,5 +1,5 @@
 /**
- * This calss reads the Robot.txt file associated with every website.
+ * This class reads the Robot.txt file associated with every website.
  * Usage :
  * 
  * and you can call robotreader using isUrlAllowed()
